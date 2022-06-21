@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "owdbr"]
+	path = owdbr
+	url = https://github.com/kimjoaoun/owdbr
+	shallow = true
+	registered = true
